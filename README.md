@@ -1,3 +1,2 @@
-# Ocean-plastic
-Ocean plastic detection
-### Currently working.....
+# Ocean-plastic-detection-algorithms-implemented
+
